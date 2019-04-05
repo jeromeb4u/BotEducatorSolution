@@ -1,0 +1,14 @@
+App Id - 
+App Password - 
+Secret Key - 1hcsi2SswBk.6djQiBv_fitJ-w-PMqjbKManhunqlPJi5mxF7O4YKTI
+
+
+
+Application ID - ed9daf67-1f28-410d-8123-bfb35cf4641b
+Password - 9Q2iMaFC4hgK/skpw8atyzg8Vq952n1YL+dh0yCi+Lk=
+
+
+https://boteducator20190404032324.azurewebsites.net
+
+
+GIT PAT - 7c73577676c20e02ac4720b1dfff26cc52aac499
